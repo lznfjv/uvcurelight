@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=AP62201WU-7
+PartCategory=Power Supply
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=2.1
+Released=2022-01-27 05:50:04
+Downloaded=2024-07-17 04:33:26
+3D=Y

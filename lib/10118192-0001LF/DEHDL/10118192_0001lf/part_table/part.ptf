@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '10118192_0001LF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "10118192-0001LF" (!) = "", "101181920001LF", "Other", "", "", "Micro USB, Input Output Connectors, B TYPE RECEPTACLE with flange", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10118192.pdf", "3.05 mm"
+END_PART
+
+END.

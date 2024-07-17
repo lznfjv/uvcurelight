@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=10118192-0001LF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=11
+Version=2.3
+Released=2024-01-16 13:16:37
+Downloaded=2024-07-17 05:08:04
+3D=Y
